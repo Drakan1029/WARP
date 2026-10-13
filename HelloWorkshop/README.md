@@ -8,4 +8,5 @@ dotnet run
 \`\`\`
 
 ## Kontakt
-Autor: s37362
+
+Autor: s37362 - Warsztat Programisty
